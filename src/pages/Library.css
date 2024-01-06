@@ -1,0 +1,32 @@
+ion-toolbar {
+  --background: transparent;
+}
+
+ion-content {
+  --ion-background-color: linear-gradient(to top right, #331b33,  #07031b);
+}
+
+h1 {
+  font-size: "60px";
+}
+
+#container strong {
+  font-size: 50px;
+  line-height: 26px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Apply the font to the class */
+.poppins-heading {
+  padding: 16px;
+  font-size: 36px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.swiper-slide {
+  background-position: center;
+  justify-content: center;
+}

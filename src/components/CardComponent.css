@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Apply the font to the class */
+.poppins-title {
+  font-size: 22px;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: white;
+}
+.poppins-subtitle {
+  margin-top: 0;
+  font-size: 14px;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  color: white;
+}

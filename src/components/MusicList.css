@@ -1,0 +1,8 @@
+.bg-transparent {
+  background: transparent;
+}
+
+.listPhoto::part(image) {
+  height: 50px;
+  border-radius: 10px;
+}

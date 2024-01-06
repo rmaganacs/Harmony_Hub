@@ -1,0 +1,39 @@
+.mainPhoto::part(image) {
+  height: 300px;
+  border-radius: 25px;
+  box-shadow: 0px 20px 60px rgba(225, 0, 255, 0.192);
+}
+
+svg {
+  fill: white;
+}
+
+.mainIcons::part(image) {
+  height: 60px;
+  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.274));
+}
+
+.subIcons::part(image) {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 30px;
+  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.274));
+}
+
+ion-grid {
+  padding: 16px;
+}
+
+ion-text {
+  justify-content: center;
+}
+
+ion-range {
+  --bar-height: 5px;
+  --knob-size: 20px;
+  --bar-border-radius: 20px;
+  --knob-box-shadow: 0px 0px 10px 10px #e650c625;
+  --bar-background-active: #bb61b3;
+  --bar-background: #4d374b;
+  --knob-background: #ffffff;
+}

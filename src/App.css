@@ -1,0 +1,13 @@
+ion-tab-bar  {
+  border-top-left-radius: 45px;
+  border-top-right-radius: 45px;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgb(31, 15, 31);
+}
+ion-tab-button {
+  background-color: rgb(31, 15, 31);
+  --color-selected: rgb(255, 255, 255);
+  --color: rgba(128, 92, 128, 0.671);
+}
