@@ -6,4 +6,4 @@ An Android and iOS music application designed to provide users with a seamless a
 </p>
 
 # About This Project
-This project was created to serve as a local music player that doesn't rely on data usage, unlike more popular streaming mobile apps. It also marked my initial foray into using a framework that leverages web application languages instead of traditional mobile app languages.
+This project was created to serve as a local music player that doesn't rely on data usage, unlike more popular streaming mobile apps. It also marked my initial introduction into using a framework that leverages web application languages instead of traditional mobile app languages.
